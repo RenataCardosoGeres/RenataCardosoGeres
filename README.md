@@ -15,7 +15,7 @@
 - 📚 Estudo **Linguagem C, HTML, CSS, UI/UX e Design** para aprimorar meus conhecimentos;
 - 🗣️ **Inglês Avançado** Concluido;
 - ✨ Interesso-me por **Design Digital;**
-- 📖💕 Viciada em Ler Livros de Romance e em Aprender coisas novas todos os dias.  
+- 📖💕 Viciada em Ler Livros de Romance (Mais de 40 Livros Lidos) e em Aprender coisas novas todos os dias.  
 
 ---
 
