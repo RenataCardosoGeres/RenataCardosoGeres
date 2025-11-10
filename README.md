@@ -4,22 +4,22 @@
   🌸 <b>Adoro Designer de Interfaces</b> com foco em criar interfaces bonitas, agradáveis e intuitivas.<br>
   💻 Estudo <b>Análise e Desenvolvimento de Sistemas</b>, sempre me aprimorando na área.<br>
   🎨 Apaixonada por cores, tipografia e boas práticas de design digital.<br>
-  📖 <b>Meu hobbie favorito é a leitura e o estudo.</b>
+  🎯 <b>Meu hobbie favorito é a leitura e o estudo.</b>
 </p>
 
 ---
 
-### 🧠 Sobre mim
-- 💡 **Sempre dou o meu melhor nas coisas que faço**
-- 🎨 Amo transformar ideias em **interfaces bonitas e funcionais**  
+### 🎀 Sobre mim 🎀
+- 💡 **Sempre dou o meu melhor nas coisas que faço** 
+- 💖 Amo transformar ideias em **interfaces bonitas e funcionais**  
 - 📚 Estudo **Linguagem C, HTML, CSS, UI/UX e Design** para aprimorar meus conhecimentos.
 - 🗣️ Inglês Avançado Concluido
-- 🧩 Interesso-me por **Design Digital**
-- ☕ Viciada em Ler e em aprender coisas novas todos os dias  
+- ✨ Interesso-me por **Design Digital**
+- 📖 Viciada em Ler e em aprender coisas novas todos os dias  
 
 ---
 
-### 🚀 Tecnologias e Ferramentas
+### 🚀 Tecnologias e Ferramentas 🌐
 <div align="center">
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
