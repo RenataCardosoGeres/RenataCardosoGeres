@@ -3,8 +3,8 @@
 <p align="center">
   🌸 <b>Adoro Designer de Interfaces</b> com foco em criar interfaces Bonitas, Agradáveis e Intuitivas.<br>
   💻 Estudo <b>Análise e Desenvolvimento de Sistemas</b>, sempre me aprimorando na área.<br>
-  🎨 Apaixonada pelas **Cores, Tipografia e Boas Práticas de Design Digital**.<br>
-  🎯 <b>Meu hobbie favorito é a **Leitura e o Estudo**.</b>
+  🎨 Apaixonada pelas Cores, Tipografia e Boas Práticas de Design Digital.<br>
+  🎯 <b>Meu hobbie favorito é a Leitura e o Estudo.</b>
 </p>
 
 ---
