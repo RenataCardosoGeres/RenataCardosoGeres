@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">✨ Olá, eu sou a Renata! 👋</h1>
 
-<!--
-**RenataCardosoGeres/RenataCardosoGeres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    🌸 <b>Adoro Designer de Interfaces</b> com foco em criar interfaces bonitas, agradáveis e intuitivas.<br>
+  💻 Estudo <b>linguagens de programação</b> sempre me aprimorando na área.<br>
+  🎨 Apaixonada por cores, tipografia e boas práticas de design digital.
+  📖 Meu hobbie favorito é a leitura e o estudo.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Sobre mim
+- 💡 **Sempre dou o meu melhor nas coisas que faço**
+- 🎨 Amo transformar ideias em **interfaces bonitas e funcionais**  
+- 📚 Estudo **Linguagem C, HTML, CSS, UI/UX e Design** para aprimorar meus conhecimentos
+- 🧩 Interesso-me por **Design Digital**
+- ☕ Viciada em Ler e em aprender coisas novas todos os dias  
+
+---
+
+### 🚀 Tecnologias e Ferramentas
+<div align="center">
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-450135?style=for-the-badge&logo=adobexd&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
+---
