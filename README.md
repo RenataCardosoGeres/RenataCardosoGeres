@@ -4,7 +4,7 @@
   🌸 <b>Adoro Designer de Interfaces</b> com foco em criar interfaces bonitas, agradáveis e intuitivas.<br>
   💻 Estudo <b>Analise e Desenvolvimento de Sistemas</b> sempre me aprimorando na área.<br>
   🎨 Apaixonada por cores, tipografia e boas práticas de design digital.
-  📖 Meu hobbie favorito é a leitura e o estudo.
+  **📖 Meu hobbie favorito é a leitura e o estudo.**
 </p>
 
 ---
