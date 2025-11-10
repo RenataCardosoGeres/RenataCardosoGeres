@@ -1,8 +1,8 @@
-<h1 align="center">✨ Olá, eu sou a Renata! 👋</h1>
+<h1 align="center">✨ Olá, Eu sou a Renata! 👋</h1>
 
 <p align="center">
-    🌸 <b>Adoro Designer de Interfaces</b> com foco em criar interfaces bonitas, agradáveis e intuitivas.<br>
-  💻 Estudo <b>linguagens de programação</b> sempre me aprimorando na área.<br>
+  🌸 <b>Adoro Designer de Interfaces</b> com foco em criar interfaces bonitas, agradáveis e intuitivas.<br>
+  💻 Estudo <b>Analise e Desenvolvimento de Sistemas</b> sempre me aprimorando na área.<br>
   🎨 Apaixonada por cores, tipografia e boas práticas de design digital.
   📖 Meu hobbie favorito é a leitura e o estudo.
 </p>
@@ -12,7 +12,8 @@
 ### 🧠 Sobre mim
 - 💡 **Sempre dou o meu melhor nas coisas que faço**
 - 🎨 Amo transformar ideias em **interfaces bonitas e funcionais**  
-- 📚 Estudo **Linguagem C, HTML, CSS, UI/UX e Design** para aprimorar meus conhecimentos
+- 📚 Estudo **Linguagem C, HTML, CSS, UI/UX e Design** para aprimorar meus conhecimentos.
+- 🗣️ Inglês Avançado Concluido
 - 🧩 Interesso-me por **Design Digital**
 - ☕ Viciada em Ler e em aprender coisas novas todos os dias  
 
