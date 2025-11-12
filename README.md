@@ -1,4 +1,4 @@
-<h1 align="center">✨ Olá, Eu sou a Renata! 👋</h1>
+<h1 align="center">✨ Oii, Sou eu Renata! 👋</h1>
 
 <p align="center">
   🌸 <b>Adoro Designer de Interfaces</b> com foco em criar interfaces Bonitas, Agradáveis e Intuitivas.<br>
